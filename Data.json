@@ -1,0 +1,20 @@
+[
+  {
+    "naam": "Jan Jansen",
+    "functie": "Developer",
+    "locatie": "Amsterdam",
+    "posts": "Ik hou van programmeren en nieuwe technologieën ontdekken."
+  },
+  {
+    "naam": "Piet Pietersen",
+    "functie": "Manager",
+    "locatie": "Rotterdam",
+    "posts": "Leiding geven is mijn passie, en ik geloof in teamwork."
+  },
+  {
+    "naam": "Karin de Vries",
+    "functie": "Designer",
+    "locatie": "Utrecht",
+    "posts": "Creativiteit en design vormen samen een sterke combinatie."
+  }
+]
