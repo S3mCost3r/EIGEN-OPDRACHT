@@ -16,5 +16,29 @@
     "functie": "Designer",
     "locatie": "Utrecht",
     "posts": "Creativiteit en design vormen samen een sterke combinatie."
+  },
+  {
+    "naam": "Frank Coster",
+    "functie": "Salesmedewerker",
+    "locatie": "Den Haag",
+    "posts": "Ik hou van leiding geven en een team leiden"
+  },
+  {
+    "naam": "Lisa de Boer",
+    "functie": "Marketing Specialist",
+    "locatie": "Eindhoven",
+    "posts": "Ik ben gepassioneerd over marketing en communicatie en houd van creatieve campagnes."
+  },
+  {
+    "naam": "Tom Vermeulen",
+    "functie": "IT Consultant",
+    "locatie": "Groningen",
+    "posts": "Ik ben gespecialiseerd in IT-oplossingen en advies, en help bedrijven groeien door technologie."
+  },
+  {
+    "naam": "Emma van Dijk",
+    "functie": "HR Manager",
+    "locatie": "Maastricht",
+    "posts": "Ik ben betrokken bij werving, selectie en het bevorderen van medewerkerstevredenheid."
   }
 ]
