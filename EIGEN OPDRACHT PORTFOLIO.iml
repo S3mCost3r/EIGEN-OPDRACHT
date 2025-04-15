@@ -10,5 +10,6 @@
     <orderEntry type="library" name="jackson-annotations-2.18.3" level="project" />
     <orderEntry type="library" name="jackson-core-2.18.3" level="project" />
     <orderEntry type="library" name="jackson-databind-2.18.3" level="project" />
+    <orderEntry type="library" name="javafx-swt" level="project" />
   </component>
 </module>
