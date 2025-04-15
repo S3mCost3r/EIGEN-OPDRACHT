@@ -1,20 +1,42 @@
 [
   {
-    "naam": "Jan Jansen",
+    "naam": "Jan Jans",
     "functie": "Developer",
     "locatie": "Amsterdam",
-    "posts": "Ik hou van programmeren en nieuwe technologieën ontdekken."
+    "posts": "Ik hou van programmeren en nieuwe technologieën ontdekken.",
+    "photo": "images/jan.jpg",
+    "contact": "jan.jans@example.com"
   },
   {
     "naam": "Piet Pietersen",
     "functie": "Manager",
     "locatie": "Rotterdam",
-    "posts": "Leiding geven is mijn passie, en ik geloof in teamwork."
+    "posts": "Leiding geven is mijn passie, en ik geloof in teamwork.",
+    "photo": "images/piet.jpg",
+    "contact": "piet.pietersen@example.com"
   },
   {
     "naam": "Karin de Vries",
     "functie": "Designer",
     "locatie": "Utrecht",
-    "posts": "Creativiteit en design vormen samen een sterke combinatie."
+    "posts": "Creativiteit en design vormen samen een sterke combinatie.",
+    "photo": "images/karin.jpg",
+    "contact": "karin.devries@example.com"
+  },
+  {
+    "naam": "Frank Coster",
+    "functie": "Salesmedewerker",
+    "locatie": "Den Haag",
+    "posts": "Ik hou van leiding geven en een team leiden.",
+    "photo": "images/frank.jpg",
+    "contact": "frank.coster@example.com"
+  },
+  {
+    "naam": "Lisa de Boer",
+    "functie": "Marketing Specialist",
+    "locatie": "Eindhoven",
+    "posts": "Ik ben gepassioneerd over marketing en communicatie en houd van creatieve campagnes.",
+    "photo": "images/lisa.jpg",
+    "contact": "lisa.deboer@example.com"
   }
 ]
